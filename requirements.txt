@@ -1,0 +1,12 @@
+dask[all]
+dask-image
+jupyter
+pandas
+matplotlib
+numba
+numpy
+scikit-image
+scipy
+seaborn
+skan
+
